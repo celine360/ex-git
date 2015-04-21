@@ -5,5 +5,5 @@ Sommaire.
 	Introduction
 		les abeilles sont nos amis
 	Développement
-		mais pas les guèpes
+		et les guèpes aussi
 	Conclusion
