@@ -3,5 +3,7 @@ Création de texte sur le fichier 3 .
 Sommaire.
 
 	Introduction
+		les abeilles sont nos amis
 	Développement
+		mais pas les guèpes
 	Conclusion
